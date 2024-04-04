@@ -5,14 +5,13 @@ logo: img/rccbc_black_logo.png
 hero_image: img/rccbc_black_motif.png
 strict_front_matter: true
 
-
 # Site theme
 jkan_theme: Default
 
 # Dataset schema
 schema: default
 
-# Site url
+# Site base url
 site.baseurl: 'https://github.com/rccbc/jkan'
 
 # Nav bar
