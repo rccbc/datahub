@@ -13,5 +13,7 @@ items:
     url: http://www.opendefinition.org/licenses/odc-odbl
   - name: Open Data Commons Public Domain Dedication and Licence (PDDL)
     url: http://www.opendefinition.org/licenses/odc-pddl
+  - name: Open Government Licence  British Columbia
+    url: https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc
   - name: Not Applicable
     url: ""
