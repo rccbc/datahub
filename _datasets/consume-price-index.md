@@ -12,7 +12,7 @@ resources:
     format: csv
 license: 'https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61'
 category:
-  - Health / Human Services
+  - Economy
 maintainer: HealthLinkBC
 maintainer_email: HealthLinkBC@gov.bc.ca
 ---

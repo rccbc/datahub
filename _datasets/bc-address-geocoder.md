@@ -13,6 +13,8 @@ resources:
 license: 'https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61'
 category:
   - Demographics
+  - Transportation
+  - Real Estate / Land Records
 maintainer: BC Gov Data Systems & Services
 maintainer_email: 
 ---
