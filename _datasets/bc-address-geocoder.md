@@ -1,6 +1,6 @@
 ---
 schema: default
-title: BC Address Geocoder (service)
+title: BC Address Geocoder (API Service)
 organization: BC Gov
 notes: The BC Address Geocoder is an application programming interface (API) web service. It can be integrated into existing applications to find physical locations, with latitudinal and longitudinal coordinates. Use the BC Address Geocoder for reliable, inclusive, and low-cost geocoding solutions for location analysis and data-driven decision-making.
 resources:

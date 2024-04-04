@@ -16,6 +16,7 @@ resources:
 license: 'https://www.statcan.gc.ca/eng/reference/licence'
 category:
   - Health / Human Services
+  - Economy
 maintainer: BC Stats
 maintainer_email: BC.Stats@gov.bc.ca
 ---
