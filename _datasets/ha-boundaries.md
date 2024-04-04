@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Health Authority (HA) boundaries
+title: Health Authority (HA) Boundaries
 organization: Ministry of Health
 notes: The HAs are a mutually exclusive and exhaustive classification of the land area in BC. HAs are contiguous (land area is geographically adjacent) and fit within an existing geographical hierarchy, e.g., cannot violate lower-level geography boundaries such as the Health Service Delivery Areas (HSDA) and Local Health Area (LHA).
 resources:
