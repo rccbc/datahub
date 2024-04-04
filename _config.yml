@@ -1,6 +1,6 @@
 title: DataHub
 greeting: Welcome to the Rural Health DataHub
-description: A data catalog for rural health and the determinants of health, supported by the Rural Coordination Centre of BC (RCCbc).
+description: A data catalog for rural health and the determinants of health, supported by the Rural Coordination Centre of BC.
 logo: img/rccbc_black_logo.png
 hero_image: img/rccbc-black-motif.png
 strict_front_matter: true
