@@ -1,8 +1,8 @@
-title: Rural Health Data InfoHub
-greeting: Welcome to the InfoHub
+title: Rural InfoHub
+greeting: Welcome to Rural Health InfoHub
 description: A data catalog for rural health and the determinants of health, sponsored by the Rural Coordination Centre of BC.
-logo: /img/rcc_black_logo.png
-hero_image: /img/homepage-hero.jpg
+logo: img/rcc_black_logo.png
+hero_image: img/homepage-hero.jpg
 strict_front_matter: true
 
 # Site theme
