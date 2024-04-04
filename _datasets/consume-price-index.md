@@ -1,8 +1,8 @@
 ---
 schema: default
 title: Consumer Price Index
-organization: HealthLinkBC
-notes: Medical institutions in BC that provide diagnostic and treatment services for people whose illnesses or injuries require that they occupy a bed for at least one night. Hospitals can be distinguished by the level of care they offer (general acute, subacute, extended acute care) and the medical conditions in which they may specialize (specialty hospitals).
+organization: Statistics Canada
+notes: Monthly indexes and percentage changes for major components and special aggregates of the Consumer Price Index (CPI), not seasonally adjusted, for Canada
 resources:
   - name: Consumer Price Index (monthly)
     url: 'https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000413'
