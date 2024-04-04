@@ -52,6 +52,8 @@ organization_fields:
     label: Description
   - field_name: logo
     label: Logo
+  - field_name: url
+    label: URL
 
 category_fields:
   - field_name: name

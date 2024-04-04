@@ -1,4 +1,4 @@
-title: Rural Health DataHub
+title: DataHub
 greeting: Welcome to the Rural Health DataHub
 description: A data catalog for rural health and the determinants of health, sponsored by the Rural Coordination Centre of BC.
 logo: img/rccbc_black_logo.png
@@ -12,7 +12,7 @@ jkan_theme: sandstone
 schema: default
 
 # # Site base url
-# site.baseurl: 'https://github.com/rccbc/jkan'
+# site.baseurl: 'https://github.com/rccbc/datahub'
 
 # Nav bar
 navigation:
