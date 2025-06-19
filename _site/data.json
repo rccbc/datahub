@@ -1,0 +1,138 @@
+{
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "dataset": [
+    {
+      "title": "Health Authority (HA) boundaries",
+      "description": "The HAs are a mutually exclusive and exhaustive classification of the land area in BC. HAs are contiguous (land area is geographically adjacent) and fit within an existing geographical hierarchy, e.g., cannot violate lower-level geography boundaries such as the Health Service Delivery Areas (HSDA) and Local Health Area (LHA).",
+      "category": ["Health / Human Services"],
+      "contactPoint": {
+        "fn": "MOH Analytics",
+        "hasEmail": "MOHAnalytics@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "Health Authority Boundaries",
+          "downloadURL": "https://openmaps.gov.bc.ca/kml/geo/layers/WHSE_ADMIN_BOUNDARIES.BCHA_HEALTH_AUTHORITY_BNDRY_SP_loader.kml",
+          "format": "kml"
+        }
+      ]
+    },
+    {
+      "title": "Hospitals in BC",
+      "description": "Medical institutions in BC that provide diagnostic and treatment services for people whose illnesses or injuries require that they occupy a bed for at least one night. Hospitals can be distinguished by the level of care they offer (general acute, subacute, extended acute care) and the medical conditions in which they may specialize (specialty hospitals).",
+      "category": ["Health / Human Services"],
+      "contactPoint": {
+        "fn": "HealthLinkBC",
+        "hasEmail": "HealthLinkBC@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "HLBC Hospitals (csv)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/383eaf98-afd7-436a-9556-67ecf14f64a7/resource/5ff82cf4-0448-4063-804a-7321f0f2b4c6/download/hlbc_hospitals.csv",
+          "format": "csv"
+        },
+        {
+          "title": "HLBC Hospitals (metadata)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/383eaf98-afd7-436a-9556-67ecf14f64a7",
+          "format": "html"
+        }
+      ]
+    },
+    {
+      "title": "Health Service Delivery Area Boundaries",
+      "description": "Health Service Delivery Area (HSDA) boundaries. 2022 boundary configuration. Sixteen areas covering the province used to provide program delivery and services.The HSDAs are a mutually exclusive and exhaustive classification of the land area in BC. HSDAs are contiguous (land area is geographically adjacent) and fit within a geographical hierarchy structure, e.g., cannot violate higher-level geography boundaries Health Authorities (HA).",
+      "category": ["Health / Human Services"],
+      "contactPoint": {
+        "fn": "MOH Analytics",
+        "hasEmail": "MOHAnalytics@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "Local Health Authority Boundaries",
+          "downloadURL": "https://openmaps.gov.bc.ca/kml/geo/layers/WHSE_ADMIN_BOUNDARIES.BCHA_HEALTH_SERV_DEL_AREA_SP_loader.kml",
+          "format": "kml"
+        }
+      ]
+    },
+    {
+      "title": "Local Health Area (LHA) Boundaries",
+      "description": "Local Health Area (LHA) are administrative boundaries for the Ministry of Health; 2022 boundary configuration. The LHAs are a mutually exclusive and exhaustive classification of the land area in BC. LHAs are contiguous (land area is geographically adjacent) and fit within an existing geographical hierarchy structure, e.g., cannot violate higher-level geography boundaries such as the Health Service Delivery Areas (HSDA) and Health Authorities (HA).",
+      "category": ["Health / Human Services"],
+      "contactPoint": {
+        "fn": "MOH Analytics",
+        "hasEmail": "MOHAnalytics@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "Local Health Authority Boundaries",
+          "downloadURL": "https://openmaps.gov.bc.ca/kml/geo/layers/WHSE_ADMIN_BOUNDARIES.BCHA_LOCAL_HEALTH_AREA_SP_loader.kml",
+          "format": "kml"
+        }
+      ]
+    },
+    {
+      "title": "School Districts of BC",
+      "description": "The School Districts dataset contains the spatial representation (polygon) of the current extent of the administrative areas defined under section 176(1) of the School Act for the purposes of preservation and promotion of the fundamental principle of local autonomy and control of public education at the public and governmental levels through locally elected school boards.",
+      "category": ["Education"],
+      "contactPoint": {
+        "fn": "Education Reporting Unit",
+        "hasEmail": "EDUC.ReportingUnit@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "School Districts of BC (kml)",
+          "downloadURL": "https://openmaps.gov.bc.ca/kml/geo/layers/WHSE_TANTALIS.TA_SCHOOL_DISTRICTS_SVW_loader.kml",
+          "format": "kml"
+        },
+        {
+          "title": "School Districts (metadata)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/school-districts-of-bc",
+          "format": "html"
+        }
+      ]
+    },
+    {
+      "title": "Mental Health and Substance Use Health Services",
+      "description": "Information on programs in BC that provide mental health and substance use services. The primary purpose of this data is for populating the HealthLinkBC Directory. The HealthLinkBC Directory is a public service that provides detailed information about how and where to access health services in British Columbia.",
+      "category": ["Health / Human Services"],
+      "contactPoint": {
+        "fn": "HealthLinkBC",
+        "hasEmail": "HealthLinkBC@gov.bc.ca"
+      },
+      "license": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+      ,
+      "distribution": [
+        {
+          "title": "Mental Health (csv)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/2e469ff2-dadb-45ea-af9d-f5683a4b9465/resource/de425d68-a87f-44ce-ab4d-fcb514c04975/download/mental-health.csv",
+          "format": "csv"
+        },
+        {
+          "title": "Mental Health (geojson)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/2e469ff2-dadb-45ea-af9d-f5683a4b9465/resource/6baaf199-0106-4dd6-8e2f-e24d629a81c6/download/mental-health.geojson",
+          "format": "geojson"
+        },
+        {
+          "title": "Mental Health (geojson)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/2e469ff2-dadb-45ea-af9d-f5683a4b9465/resource/6baaf199-0106-4dd6-8e2f-e24d629a81c6/download/mental-health.geojson",
+          "format": "kml"
+        },
+        {
+          "title": "Mental Health (metadata)",
+          "downloadURL": "https://catalogue.data.gov.bc.ca/dataset/mental-health-and-substance-use-health-services",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

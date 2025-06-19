@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Health Authority (HA) boundaries",
+    "organization": "Ministry of Health",
+    "notes": "The HAs are a mutually exclusive and exhaustive classification of the land area in BC. HAs are contiguous (land area is geographically adjacent) and fit within an existing geographical hierarchy, e.g., cannot violate lower-level geography boundaries such as the Health Service Delivery Areas (HSDA) and Local Health Area (LHA).",
+    "category": ["Health / Human Services"],
+    "url": "/datasets/ha-boundaries/"
+  },
+  {
+    "title": "Hospitals in BC",
+    "organization": "HealthLinkBC",
+    "notes": "Medical institutions in BC that provide diagnostic and treatment services for people whose illnesses or injuries require that they occupy a bed for at least one night. Hospitals can be distinguished by the level of care they offer (general acute, subacute, extended acute care) and the medical conditions in which they may specialize (specialty hospitals).",
+    "category": ["Health / Human Services"],
+    "url": "/datasets/hospitals-bc/"
+  },
+  {
+    "title": "Health Service Delivery Area Boundaries",
+    "organization": "Ministry of Health",
+    "notes": "Health Service Delivery Area (HSDA) boundaries. 2022 boundary configuration. Sixteen areas covering the province used to provide program delivery and services.The HSDAs are a mutually exclusive and exhaustive classification of the land area in BC. HSDAs are contiguous (land area is geographically adjacent) and fit within a geographical hierarchy structure, e.g., cannot violate higher-level geography boundaries Health Authorities (HA).",
+    "category": ["Health / Human Services"],
+    "url": "/datasets/hsda-boundaries/"
+  },
+  {
+    "title": "Local Health Area (LHA) Boundaries",
+    "organization": "Ministry of Health",
+    "notes": "Local Health Area (LHA) are administrative boundaries for the Ministry of Health; 2022 boundary configuration. The LHAs are a mutually exclusive and exhaustive classification of the land area in BC. LHAs are contiguous (land area is geographically adjacent) and fit within an existing geographical hierarchy structure, e.g., cannot violate higher-level geography boundaries such as the Health Service Delivery Areas (HSDA) and Health Authorities (HA).",
+    "category": ["Health / Human Services"],
+    "url": "/datasets/lha-boundaries/"
+  },
+  {
+    "title": "School Districts of BC",
+    "organization": "BC Gov",
+    "notes": "The School Districts dataset contains the spatial representation (polygon) of the current extent of the administrative areas defined under section 176(1) of the School Act for the purposes of preservation and promotion of the fundamental principle of local autonomy and control of public education at the public and governmental levels through locally elected school boards.",
+    "category": ["Education"],
+    "url": "/datasets/school-districts/"
+  },
+  {
+    "title": "Mental Health and Substance Use Health Services",
+    "organization": "Ministry of Health",
+    "notes": "Information on programs in BC that provide mental health and substance use services. The primary purpose of this data is for populating the HealthLinkBC Directory. The HealthLinkBC Directory is a public service that provides detailed information about how and where to access health services in British Columbia.",
+    "category": ["Health / Human Services"],
+    "url": "/datasets/substance-use/"
+  }
+]
