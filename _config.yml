@@ -12,8 +12,7 @@ jkan_theme: sandstone
 schema: default
 
 # # Site base url
-# site.baseurl: 'https://github.com/rccbc/datahub'
-
+site.baseurl: 'datahub'
 
 # Nav bar
 navigation:
